@@ -246,7 +246,7 @@ header li>a{
 .ba-between-section{
 	position: relative;
 	background: #333;
-	padding-bottom: 30px;
+	padding-bottom: 70px;
 
 }
 .ba-ellipse{
@@ -258,7 +258,6 @@ header li>a{
 .ba-image{
 	display: flex;
 
-	padding: 20px 40px 20px;
 }
 
 .ba-image div{
@@ -274,7 +273,7 @@ header li>a{
 	font-family: Aleo;
 	color:  #e8e8e8;
 	font-size: 36px;
-	margin-left: -50px;
+	margin-left: -100px;
 }
 
 /*sdsdsd*/
